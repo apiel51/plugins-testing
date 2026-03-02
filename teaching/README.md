@@ -1,11 +1,11 @@
-# Teaching plugin
+# teaching-TEST plugin
 
-Teaching workflows: skill mapping, practice plans, and feedback loops.
+Teaching workflows in test mode: skill mapping, short practice plans, and fast feedback loops.
 
 ## Installation
 
 ```bash
-/add-plugin teaching
+/add-plugin teaching-TEST
 ```
 
 ## Components
@@ -14,8 +14,8 @@ Teaching workflows: skill mapping, practice plans, and feedback loops.
 
 | Skill | Description |
 |:------|:------------|
-| `create-learning-path` | Build a personalized learning roadmap with milestones and practice checkpoints |
-| `run-learning-retrospective` | Evaluate progress, identify blockers, and adjust the learning plan |
+| `create-learning-path` | Build a focused learning roadmap with compact milestones and test checkpoints |
+| `run-learning-retrospective` | Evaluate progress quickly, identify blockers, and adjust the next sprint |
 
 ## License
 

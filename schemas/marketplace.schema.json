@@ -59,7 +59,7 @@
         "name": {
           "type": "string",
           "minLength": 1,
-          "pattern": "^[a-z0-9]([a-z0-9.-]*[a-z0-9])?$",
+          "pattern": "^[A-Za-z0-9]([A-Za-z0-9.-]*[A-Za-z0-9])?$",
           "description": "Plugin identifier matching the plugin's name in its plugin.json."
         },
         "source": {

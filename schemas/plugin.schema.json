@@ -10,8 +10,8 @@
     "name": {
       "type": "string",
       "minLength": 1,
-      "pattern": "^[a-z0-9]([a-z0-9.-]*[a-z0-9])?$",
-      "description": "Unique plugin identifier in kebab-case (lowercase alphanumeric with hyphens and periods)."
+      "pattern": "^[A-Za-z0-9]([A-Za-z0-9.-]*[A-Za-z0-9])?$",
+      "description": "Unique plugin identifier using alphanumeric characters with optional hyphens and periods."
     },
     "displayName": {
       "type": "string",

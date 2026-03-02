@@ -1,8 +1,8 @@
 {
-  "name": "teaching",
-  "displayName": "Teaching",
+  "name": "teaching-TEST",
+  "displayName": "teaching-TEST",
   "version": "1.0.0",
-  "description": "Skill mapping, practice plans, and learning retrospectives. Builds personalized roadmaps with milestones and practice checkpoints, and runs periodic reviews to adjust based on progress.",
+  "description": "Test-focused teaching workflows for skill mapping, short practice plans, and quick retrospectives. Builds practical roadmaps with small milestones and rapid feedback checkpoints.",
   "author": {
     "name": "Cursor",
     "email": "plugins@cursor.com"
@@ -12,17 +12,19 @@
   "license": "MIT",
   "logo": "assets/avatar.png",
   "keywords": [
-    "teaching",
+    "teaching-TEST",
     "study-plan",
     "practice",
     "feedback",
-    "mentorship"
+    "mentorship",
+    "testing"
   ],
   "category": "utilities",
   "tags": [
-    "teaching",
+    "teaching-TEST",
     "education",
-    "practice"
+    "practice",
+    "test-mode"
   ],
   "skills": "./skills/"
 }
